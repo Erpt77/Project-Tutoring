@@ -9,6 +9,6 @@ Project that I wanted to fork cause it looked cool, anyway. Here's the credits:
 
 *Additional Stuff* | By me and others at Project EZ
 
-###If You Want To Support Us, Go To: https://dsc.gg/project-ez###
+### If You Want To Support Us, Go To: https://dsc.gg/project-ez ###
 
-###Thank You!!!###
+### Thank You!!! ###
