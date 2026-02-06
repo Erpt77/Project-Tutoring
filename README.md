@@ -1,7 +1,14 @@
-All my games are free for anyone to download, maybe gimmie some credit tho yeah? 😭
+Project that I wanted to fork cause it looked cool, anyway. Here's the credits:
 -----
-**credits and love <3 :**
 
-*Games* | GN-Math, Slqnt (quasar), Ultimate Game Stash, and Truffled (if you want credit dm me)
+*Games* | GN-Math, Slqnt, Ultimate Game Stash, and Truffled 
 
-*Website* | Noah (thugalicious)
+*Website* | Noah
+
+*Forked from* | NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor.
+
+*Additional Stuff* | By me and others at Project EZ
+
+###If You Want To Support Us, Go To: https://dsc.gg/project-ez###
+
+###Thank You!!!###
